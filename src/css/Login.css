@@ -1,0 +1,12 @@
+.login{
+    border:1px solid red;
+    display: inline-block;
+    width: 380px;
+    height: 300px;
+    background-color: #fff;
+    padding: 0 10px 10px 10px;
+}
+.close{
+    float: right;
+    cursor: pointer;
+}
